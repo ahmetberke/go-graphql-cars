@@ -1,0 +1,79 @@
+[
+  {
+    "name" : "Francesco Bernoulli",
+    "speed" : 220,
+    "racing_number" : 1,
+    "country" : "Italy",
+    "racing_type" : "Formula Racer"
+  },
+  {
+    "name" : "Carla Veloso",
+    "speed" : 206,
+    "racing_number" : 8,
+    "country" : "Brazil",
+    "racing_type" : "Le Motor Prototype"
+  },
+  {
+    "name" : "Shu Todoroki",
+    "speed" : 203,
+    "racing_number" : 7,
+    "country" : "Japan",
+    "racing_type" : "Le Motor Prototype"
+  },
+  {
+    "name" : "Jeff Gorvette",
+    "speed" : 200,
+    "racing_number" : 24,
+    "country" : "United States",
+    "racing_type" : "GTS2"
+  },
+  {
+    "name" : "Miguel Camino",
+    "speed" : 200,
+    "racing_number" : 5,
+    "country" : "Spain",
+    "racing_type" : "GTS2"
+  },
+  {
+    "name" : "Lightning McQueen",
+    "speed" : 200,
+    "racing_number" : 95,
+    "country" : "United States",
+    "racing_type" : "Piston Cup"
+  },
+  {
+    "name" : "Rip Clutchgoneski",
+    "speed" : 199 ,
+    "racing_number" : 10,
+    "country" : "The Republic of New Rearendia",
+    "racing_type" : "Formula 6000"
+  },
+  {
+    "name" : "Lewis Hamilton",
+    "speed" : 190 ,
+    "racing_number" : 2,
+    "country" : "Great Britain and Grenada",
+    "racing_type" : "GTS1"
+  },
+  {
+    "name" : "Nigel Gearsley",
+    "speed" : 180 ,
+    "racing_number" : 9,
+    "country" : "Great Britain",
+    "racing_type" : "GTS1"
+  },
+  {
+    "name" : "Max Schnell",
+    "speed" : 160 ,
+    "racing_number" : 4,
+    "country" : "Germany",
+    "racing_type" : "WTCL (World Torque Champion League)"
+  },
+  {
+    "name" : "Raoul ÇaRoule",
+    "speed" : 124,
+    "racing_number" : 6,
+    "country" : "France",
+    "racing_type" : "GRC"
+  }
+]
